@@ -4,7 +4,7 @@ CURL against Icon API to configure sip reg 2
 USAGE: You can invoke this script in two ways
 
 - ./setSip2.sh <<password>password> <IPofMachine<IpOfMachine>>
-- ./batchRun.sh <password <IpFile.txt>
+- ./batchRun.sh <password <ExampleFile.txt>
   
 Notes* <br />
 Customer will need a Linux or MAC machine with CURL utility installed.  
