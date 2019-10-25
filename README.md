@@ -1,5 +1,5 @@
 # SetSip2
-CURL against Icon API to configure 'config sip reg 2'
+CURL against Icon API to configure sip reg 2
 
 USAGE: You can invoke this script in two ways
 
