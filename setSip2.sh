@@ -14,6 +14,8 @@ else
     exit 1
 fi
 
+##Sip2 config parameters##
+
 # 0 = SIP is not enabled
 # 1 = SIP is enabled
 bIsSipEnabled="1"
@@ -48,6 +50,9 @@ externalServer="External Server"
 # 0 = SIP Primary context
 # 1 = SIP Secondary context
 eContextType="1"
+
+##END Sip2 config parameters##
+
 
 echo "AUTH is ${auth}"
 b64auth=$(echo -n ${auth} | base64)
