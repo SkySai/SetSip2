@@ -3,7 +3,7 @@ CURL against Icon API to configure sip reg 2
 
 USAGE: You can invoke this script in two ways
 
-- ./setSip2.sh <password> <IPofMachine>
+- ./setSip2.sh <<password>password> <IPofMachine<IpOfMachine>>
 - ./batchRun.sh <password <IpFile.txt>
   
 Notes* <br />
